@@ -18,7 +18,7 @@ function Avatar() {
   return (
     <img
       className="avatar"
-      src="https://randomuser.me/api/portraits/women/3.jpg"
+      src="https://t3.ftcdn.net/jpg/05/40/62/46/360_F_540624608_gGfUf4SuPCzzBPA3GPoH6nHphsSEMDeA.jpg"
       alt="Avatar"
     />
   );
